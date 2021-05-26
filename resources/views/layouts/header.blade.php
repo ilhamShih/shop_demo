@@ -47,7 +47,9 @@
 <i class="fas fa-shopping-bag"></i>
 <span class="badge basker_kol">
 
+
 <!-- ______________________ Корзина _________________________ -->  
+
 
 @yield('content_korzina')
 
