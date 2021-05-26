@@ -68,4 +68,6 @@
 <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
 <script src="{{ asset("js/js.js") }}"></script>
 </body>
+
+
 </html>
