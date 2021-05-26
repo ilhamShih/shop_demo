@@ -1,0 +1,106 @@
+#horizontal {
+width: 200px;
+height: 100px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+#child1 {
+background: #bcf5b1;
+flex-grow: 1;
+}
+#child2 {
+background: #aacaff;
+align-self: flex-start;
+}
+#child3 {
+background: #e3e2ad;
+}
+#banner { 
+width:200px;
+height:10px;
+left:100em;
+top:-5px; 
+-webkit-transform: skew(20deg);
+-moz-transform: skew(20deg);
+-o-transform: skew(20deg);background: #FFEB3B;
+}
+#banner1{ 
+width:200px;
+height:10px;
+left:-35px;
+top:-25px;
+-webkit-transform: skew(20deg);
+-moz-transform: skew(20deg);
+-o-transform: skew(20deg);
+ background: #FFEB3B;
+	
+}
+#banner2 { 
+  
+width:200px;
+height:10px;
+left:-65px;
+top:-45px;
+-webkit-transform: skew(20deg);
+-moz-transform: skew(20deg);
+-o-transform: skew(20deg);
+ background: #FFEB3B;
+}
+#banner3 { 
+width:200px;
+height: 10px;
+left:-95px;
+top:-65px;
+-webkit-transform: skew(20deg);
+-moz-transform: skew(20deg);
+-o-transform: skew(20deg);
+background: #FFEB3B;
+}
+
+#banner4{ 
+width:200px;
+height: 10px;
+left:-50px;
+top:-100px;
+-webkit-transform: skew(20deg);
+-moz-transform: skew(20deg);
+-o-transform: skew(20deg);
+background: #FFEB3B;
+    
+}
+
+#parallelogram {
+width: 500;
+height: 10px;
+-webkit-transform: skew(20deg);
+-moz-transform: skew(20deg);
+-o-transform: skew(20deg);
+background: RED;
+}
+
+@media screen and (max-width: 700px) {
+.body_pointer {
+cursor: pointer;
+	}
+}
+
+.crop2{
+margin:.5em 10px .5em 0;
+text-align: center;
+margin-left:auto;
+margin-right:auto;
+overflow:hidden; /* this is important */
+position:relative; /* this is important too */
+border:1px solid #ccc;
+width:200px;
+height:100px;
+}
+.crop2 img{
+float:left;
+position:absolute;
+top:0px;
+left:0px;
+}
+
