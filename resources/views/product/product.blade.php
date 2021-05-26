@@ -9,6 +9,9 @@
 
 <!-- ______________________ Товары _________________________ -->
 
+
+<!-- ______________________ Товары _________________________ -->
+
 @section('content_product') @foreach($tes as $user)                      
 <div class="sidebar-box4 card card-product ">
 <div class="product-item card-body">
