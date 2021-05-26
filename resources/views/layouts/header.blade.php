@@ -46,7 +46,9 @@
 <a href="tpl/cart_.php"><span style="font-size: 1.6em;">
 <i class="fas fa-shopping-bag"></i>
 <span class="badge basker_kol">
+
 <!-- ______________________ Корзина _________________________ -->  
+
 @yield('content_korzina')
 
 </span>
@@ -55,6 +57,7 @@
 <section>
 <div id="append"> 
 <div class="grid3">
+
 <!-- ______________________ Товары _________________________ -->
     
 @yield('content_product')  
