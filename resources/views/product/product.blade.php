@@ -7,7 +7,6 @@
 
 @endsection
 
-
 <!-- ______________________ Товары _________________________ -->
 
 @section('content_product') @foreach($tes as $user)                      
