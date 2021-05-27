@@ -7,7 +7,7 @@
 
 @endsection
 
-<!-- ___sss___________________ Товары _________________________ -->
+<!-- ______________________ Товары _________________________ -->
 
 @section('content_product') @foreach($tes as $user)                      
 <div class="sidebar-box4 card card-product ">
