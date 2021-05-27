@@ -10,5 +10,5 @@
 <image alt="Главный экран"
 	title="Главный экран" width="250" height="500" src="storage/img/pc.png">
 <image alt="Экран Категории"
-	title="Экран Категории" width="250" height="500" src="/scrinshot/mobi.png">
+	title="Экран Категории" width="250" height="500" src="storage/img/mobi.png">
   
