@@ -14,7 +14,7 @@
 <div class="product-item card-body">
 <div class="img-hold">    
 <a href="">
-<img  src='{{ asset("/img/$user->img") }}' >
+<img  src='{{ url("storage/img/$user->img") }}' >
 </a>
 <div class="price">{{$user->price }} руб</div>
 </div>
