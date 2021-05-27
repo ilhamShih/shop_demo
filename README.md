@@ -4,11 +4,11 @@
 <li>Оформление заказа</li>
 
 <div align="center">
-	 <h1 align="center"><span class="tag">Интерфейс клиента</span></h1>
+	 <h1 align="center"><span class="tag">Вид на пк</span></h1>
  <h3 align="center"><span class="tag"</span></h3>
-
 <image alt="Главный экран"
-	title="Главный экран" width="250" height="500" src="storage/img/pc.png">
+	title="Главный экран" width="2000" height="500" src="storage/img/pc.png">
+<h1 align="center"><span class="tag">Вид на мобильном</span></h1> 
 <image alt="Экран Категории"
 	title="Экран Категории" width="250" height="500" src="storage/img/mobi.png">
   
